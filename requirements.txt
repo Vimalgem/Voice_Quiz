@@ -1,0 +1,11 @@
+openai
+langchain
+faster-whisper
+pyttsx3
+gtts
+sounddevice
+scipy
+numpy
+streamlit
+PyPDF2
+chardet
